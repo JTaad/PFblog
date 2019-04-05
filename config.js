@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://pf-faq.netlify.com',
   title: 'PF FAQ',
-  subtitle: '',
+  subtitle: 'xxx',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
