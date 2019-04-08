@@ -27,10 +27,10 @@ tags:
 
 <https://www.joptimisemonsite.fr/exemple-article-optimise-seo/>
 
-
-
 ## Autres
 
-Avant de poster sur les réseaux sociaux, voir comment facebook affiche le partage : [Facebook Debug Cache](https://developers.facebook.com/tools/debug/?locale=fr_FR)
+[\> Facebook Debug Cache](https://developers.facebook.com/tools/debug/?locale=fr_FR) :
+
+_Permet de voir comment va s'afficher le partage d'un article sur Facebook (image, description, titre etc...)_ 
 
 Ajouter l'URL de l'article, dans la barre et cliquer sur "Débuguer", si les informations ne sont pas à jour, cliquer sur "re-collecter"
