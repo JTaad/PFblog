@@ -30,6 +30,14 @@ tags:
 
 \- Éviter les mots clés trop utiliser, mieux vaut utiliser les mots clés dit de "longue trâine". Exemple, pour le mot clé "Fumigène", nous allons utiliser des mots clés plus ciblés, comme "Fumigène rouge", "Fumigène à main", "Fumigène puissant", "Fumigène Ardi"
 
+\- Placer les mots clés en début de phrase pour leur donner plus d'impact.
+
+\- Placer les mots clés dans les noms des fichiers images.
+
+\- Densité de mots clés à respecter : entre 3% et 7%, mais inferieur à 10% sur l'ensemble de la page.
+
+\- Limiter la répétition de mots clés indentiques plus de 10 fois sur une page.
+
 \- Lorsque un lien est inséré dans l'article, éviter de nommer le lien "Cliquez ici", mais plutôt des mots explicites décrivant ce que l'ont va trouver en cliquant sur le lien. 
 
 \- Ne surtout pas faire de _Duplicate Content_, c'est à dire, de ne pas copier du contenu, d'un autre site internet ou même d'un autre paragraphe du site Planete Fumigene. Il est possible de dire la même chose deux fois, mais il faut l'écrire différement.
