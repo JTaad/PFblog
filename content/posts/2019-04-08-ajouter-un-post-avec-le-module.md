@@ -1,7 +1,7 @@
 ---
 template: post
 title: Ajouter un article avec le module
-slug: ajouter-post-module-blog
+slug: ajouter-article-module-blog
 draft: false
 date: 2019-04-08T06:47:05.664Z
 description: Utilisation du module
