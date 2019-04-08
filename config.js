@@ -15,8 +15,8 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
+    name: 'Planete Fumigene FAQ',
+    photo: '/logo2.png',
     bio: '',
     contacts: {
       email: '#',
