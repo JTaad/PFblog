@@ -14,8 +14,6 @@ category: blog
 3. Pourquoi le produit intéresse vos clients ?
 4. Pourquoi les clients vous font-ils confiance ?
 
-
-
 ## Exemple d'article parfait
 
 ![](/media/perfectblogpost-514x600.jpg)
