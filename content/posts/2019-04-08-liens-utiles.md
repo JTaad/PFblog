@@ -13,9 +13,15 @@ tags:
 
 <https://drive.google.com/file/d/0B4L9R72Iit2XaTFkOG1QbjNfY2s/view>
 
-## Rechercher les bons mots clés:
 
-<https://trends.google.fr> 
+
+## Rechercher de mots clés:
+
+[Google Keywork Planner](https://ads.google.com/intl/fr_fr/home/tools/keyword-planner/)
+
+[Google Trends](<https://trends.google.fr >)
+
+
 
 ## Articles sur la rédaction de posts:
 
