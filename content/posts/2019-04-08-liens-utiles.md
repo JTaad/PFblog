@@ -1,13 +1,13 @@
 ---
 template: post
 title: Liens utiles
-slug: liens-utiles
+slug: /posts/liens-utiles
 draft: false
 date: 2019-04-08T06:59:33.118Z
 description: Articles à lire pour créer des articles de blog
 category: blog
 tags:
-  - blog tuto
+  - blog
 ---
 ## Créer un bon titre:
 
