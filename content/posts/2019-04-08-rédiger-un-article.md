@@ -16,17 +16,29 @@ tags:
 3. Pourquoi le produit intéresse vos clients ?
 4. Pourquoi les clients vous font-ils confiance ?
 
-## Exemple d'article parfait
+## Objectifs
+
+\- Créer un article intéressant (valeur ajoutée)
+
+\- Trouver un titre percutant
+
+\- Créer un article "long" (idéalement 600 mots)
+
+ 
+
+
+
+## Exemple
 
 ![](/media/perfectblogpost-514x600.jpg)
-
-
 
 ## Bonnes pratiques
 
 \- L'url de l'article (_slug_) doit contenir au moins un mot clé principal
 
 \- Le titre (H1) de l'article doit contenir le mot clé principal
+
+\- Ne pas mettre de mots en gras ou italique dans le H1
 
 \- Insérer un Lien qui renvoie vers une autre page du site dans l'article dès que possible, le lien peut renvoyer vers un article du catalogue, un autre article du blog, ou encore, une page "conseil d'utilisation".
 
