@@ -1,6 +1,6 @@
 ---
 template: post
-title: Ajouter un post avec le module
+title: Ajouter un article avec le module
 slug: ajouter-post-module-blog
 draft: false
 date: 2019-04-08T06:47:05.664Z
