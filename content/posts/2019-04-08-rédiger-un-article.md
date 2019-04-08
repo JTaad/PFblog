@@ -24,10 +24,6 @@ tags:
 
 \- Créer un article "long" (idéalement 600 mots)
 
- 
-
-
-
 ## Exemple
 
 ![](/media/perfectblogpost-514x600.jpg)
@@ -59,3 +55,5 @@ tags:
 \- Utiliser le **gras** et _l'italique_ pour faciliter la lecture et indiquer à google les mots importants (ne pas en abuser)
 
 \- Optimiser le poid des images, une image ne doit pas dépasser 300ko dans l'idéal.
+
+\- Ne pas hésiter à faire des liens vers des sources externes.
