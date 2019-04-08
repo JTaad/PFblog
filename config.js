@@ -2,12 +2,12 @@
 
 module.exports = {
   url: 'https://pf-faq.netlify.com',
-  title: 'PF FAQ',
+  title: 'Support Planete Fumigene.',
   subtitle: 'xxx',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -17,7 +17,7 @@ module.exports = {
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '',
     contacts: {
       email: '#',
       telegram: '#',
