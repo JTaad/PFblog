@@ -20,6 +20,8 @@ tags:
 
 ![](/media/perfectblogpost-514x600.jpg)
 
+
+
 ## Bonnes pratiques
 
 \- L'url de l'article (_slug_) doit contenir au moins un mot clé principal
