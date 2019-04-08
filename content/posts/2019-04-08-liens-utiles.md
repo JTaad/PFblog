@@ -26,3 +26,11 @@ tags:
 <https://www.notuxedo.com/comment-ecrire-article-blog/>
 
 <https://www.joptimisemonsite.fr/exemple-article-optimise-seo/>
+
+
+
+## Autres
+
+Avant de poster sur les réseaux sociaux, voir comment facebook affiche le partage : [Facebook Debug Cache](https://developers.facebook.com/tools/debug/?locale=fr_FR)
+
+Ajouter l'URL de l'article, dans la barre et cliquer sur "Débuguer", si les informations ne sont pas à jour, cliquer sur "re-collecter"
