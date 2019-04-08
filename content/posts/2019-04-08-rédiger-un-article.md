@@ -3,7 +3,7 @@ template: post
 title: Rédiger un article
 slug: /posts/rediger-un-article
 draft: false
-date: 2019-04-08T06:49:58.038Z
+date: 2019-04-08T06:02:00.000Z
 description: Écrire un article pour le blog
 category: blog
 tags:
