@@ -13,13 +13,9 @@ tags:
 
 <https://drive.google.com/file/d/0B4L9R72Iit2XaTFkOG1QbjNfY2s/view>
 
-
-
 ## Rechercher les bons mots clés:
 
-<https://trends.google.fr>
-
-
+<https://trends.google.fr> 
 
 ## Articles sur la rédaction de posts:
 
