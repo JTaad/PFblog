@@ -26,9 +26,9 @@ Dans le menu gauche de Prestashop, tout en bas se trouve les liens concernant le
 * _Activé_ : Comme son nom l'indique, il est possible de désactiver un article, pour le poster plus tard par exemple.
 * _Date enabled_ : Il est possible de définir une date de publication pour le post, en laissant le post en "activé" et en sélectionnant une date, il est alors possible définir un calendrier des posts du blog
 
-
-
 ## Édition
+
+![](/media/editeur.jpg)
 
 1. Accéder au code de l'article (n'importe quel HTML peut être rentré)
 2. Gérer la couleur du texte
