@@ -21,17 +21,13 @@ tags:
 * Créer un article intéressant (valeur ajoutée)
 * Trouver un titre percutant
 * Créer un article "long" (idéalement 600 mots)
-* Trouver les bons mots clés (champ lexical, longue traîne)
+* Trouver les bons mots clés ([champ lexical](https://fr.wikipedia.org/wiki/Champ_lexical), [longue traîne](https://digitiz.fr/blog/longue-traine-seo/))
 
 ## Exemple
 
 ![](/media/perfectblogpost-514x600.jpg)
 
-
-
 ## Bonnes pratiques
-
-
 
 ### Titre
 
@@ -39,13 +35,9 @@ tags:
 
 \- Ne pas mettre de mots en gras ou italique dans le H1
 
-
-
 ### URL(Slug)
 
 \- Le slug de l'article doit contenir au moins un mot clé principal
-
-
 
 ### Contenu
 
@@ -66,8 +58,6 @@ tags:
 \- Éviter les mots clés trop utiliser, mieux vaut utiliser les mots clés dit de "longue trâine". Exemple, pour le mot clé "Fumigène", nous allons utiliser des mots clés plus ciblés, comme "Fumigène rouge", "Fumigène à main", "Fumigène puissant", "Fumigène Ardi"
 
 \- Créer des liens vers des sources externes dès que possible.
-
-
 
 ### Images
 
