@@ -1,11 +1,13 @@
 ---
 template: post
 title: Rédiger un article
-slug: rediger-un-article
+slug: /posts/rediger-un-article
 draft: false
 date: 2019-04-08T06:49:58.038Z
 description: Écrire un article pour le blog
 category: blog
+tags:
+  - blog
 ---
 ## Définir l'audience
 
