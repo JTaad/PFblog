@@ -7,7 +7,7 @@ date: 2019-04-08T06:59:33.118Z
 description: Articles à lire pour créer des articles de blog
 category: blog
 tags:
-  - blog
+  - blog tuto
 ---
 ## Créer un bon titre:
 
