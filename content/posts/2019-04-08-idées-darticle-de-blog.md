@@ -1,6 +1,6 @@
 ---
 template: post
-title: Idées d'article de blog
+title: Idées d'articles de blog
 slug: idees-articles
 draft: false
 date: 2019-04-08T09:16:37.494Z
