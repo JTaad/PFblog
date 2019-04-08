@@ -3,7 +3,7 @@ template: post
 title: Ajouter un article avec le module
 slug: ajouter-article-module-blog
 draft: false
-date: 2019-04-08T06:47:05.664Z
+date: 2019-04-08T06:03:00.000Z
 description: Utilisation du module
 category: blog
 tags:
